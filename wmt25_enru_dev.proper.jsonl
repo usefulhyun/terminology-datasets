@@ -1,0 +1,500 @@
+{"item": "позиция"}
+{"run": "выполнить"}
+{"type": "тип"}
+{"type": "вид"}
+{"provider": "провайдер"}
+{"performance": "эффективность"}
+{"preferences": "настройки"}
+{"wizard": "ассистент"}
+{"replaced": "заменено"}
+{"activity": "операция"}
+{"category": "категория"}
+{"type": "тип"}
+{"type": "вид"}
+{"activate": "активация"}
+{"type": "тип"}
+{"project ID": "идентификатор проекта"}
+{"input": "ввод", "union": "объединение"}
+{"purpose": "назначение"}
+{"provider": "провайдер"}
+{"repair": "ремонт"}
+{"validity period": "срок действия"}
+{"data provider": "провайдер данных"}
+{"edit": "редактировать"}
+{"type": "вид"}
+{"demand management": "управление спросом", "type": "вид"}
+{"issue": "отпуск"}
+{"provider": "провайдер"}
+{"type": "тип"}
+{"change": "изменение"}
+{"edit": "редактировать"}
+{"output": "вывод"}
+{"space": "пространство"}
+{"provider": "провайдер"}
+{"schedule": "запланировать"}
+{"transaction currency": "валюта сделки"}
+{"schedule": "график"}
+{"content": "контент"}
+{"mapping": "сопоставление"}
+{"contract": "контракт"}
+{"review": "проверка"}
+{"output": "вывод"}
+{"drill down": "выполнить развертку"}
+{"enter": "вводить"}
+{"schedule": "планирование"}
+{"provider": "провайдер"}
+{"process": "обработать"}
+{"shared object": "общий объект"}
+{"space": "пространство"}
+{"data provider": "провайдер данных"}
+{"pause": "приостановить"}
+{"inactive": "неактивно"}
+{"wizard": "ассистент"}
+{"inspection": "проверка"}
+{"process": "обработать"}
+{"purpose": "назначение"}
+{"validity period": "период действия"}
+{"situation": "ситуация", "change": "изменить"}
+{"service confirmation": "подтверждение сервиса", "category": "категория"}
+{"provider": "провайдер"}
+{"data provider": "провайдер данных"}
+{"retention period": "период хранения"}
+{"provider": "провайдер"}
+{"thread": "тред", "limit": "лимит"}
+{"type": "тип"}
+{"type": "вид"}
+{"service confirmation": "подтверждение сервиса"}
+{"purpose": "назначение"}
+{"clearing": "перерасчет"}
+{"provider": "поставщик"}
+{"valid-from date": "Действительно с"}
+{"item type": "вид позиции"}
+{"provider": "поставщик"}
+{"tax category": "тип налога"}
+{"edit": "редактировать"}
+{"business entity": "бизнес-сущность"}
+{"use": "использование"}
+{"provider": "провайдер"}
+{"change": "изменить"}
+{"pane": "область"}
+{"due date": "срок"}
+{"Environment, Health and Safety": "управление данными по охране здоровья и защите окружающей среды"}
+{"vendor": "поставщик"}
+{"type": "тип"}
+{"contract": "контракт"}
+{"use": "использовать"}
+{"mapping": "сопоставление"}
+{"provider": "провайдер"}
+{"contract": "контракт"}
+{"service provider": "поставщик услуг"}
+{"tab": "вкладка"}
+{"pattern": "шаблон"}
+{"contract": "договор", "transfer": "передача"}
+{"provider": "провайдер"}
+{"consumption": "потребление"}
+{"data provider": "провайдер данных"}
+{"edit": "редактировать"}
+{"grouping": "группирование"}
+{"maintain": "выполнять ведение"}
+{"type": "тип"}
+{"provider": "провайдер"}
+{"type": "тип"}
+{"type": "тип"}
+{"consumption": "потребление"}
+{"consumption": "использование"}
+{"type": "вид"}
+{"schedule": "расписание"}
+{"schedule": "планирование"}
+{"category": "категория"}
+{"activity type": "тип операции"}
+{"use": "использовать"}
+{"restart": "перезапуск", "pause": "приостановка"}
+{"use": "использование"}
+{"space": "пространство"}
+{"wizard": "ассистент"}
+{"provider": "провайдер"}
+{"output": "выход"}
+{"type": "тип"}
+{"output": "вывод"}
+{"update": "обновлять"}
+{"available capacity": "доступная мощность"}
+{"limit": "предел"}
+{"type": "вид"}
+{"tab": "вкладка"}
+{"change": "изменение"}
+{"request": "заявка"}
+{"process": "обработать"}
+{"purpose": "назначение"}
+{"production version": "вариант изготовления"}
+{"client": "мандант"}
+{"cancel": "сторнировать"}
+{"result type": "тип результата"}
+{"allocation": "распределение"}
+{"sales order": "заказ на продажу"}
+{"pattern": "шаблон"}
+{"type": "вид"}
+{"action": "операция"}
+{"provider": "поставщик"}
+{"type": "тип"}
+{"contract": "договор"}
+{"process": "обработать"}
+{"type": "тип"}
+{"space": "пространство"}
+{"output": "выход"}
+{"usage type": "тип использования"}
+{"check": "проверка"}
+{"type": "вид"}
+{"transfer": "перенести"}
+{"allocation": "распределение"}
+{"get": "получить"}
+{"contract": "контракт"}
+{"schedule": "расписание"}
+{"compare": "сравнивать"}
+{"type": "вид"}
+{"download": "выгрузить"}
+{"schedule": "планирование"}
+{"space": "пространство"}
+{"purchase order": "заказ на поставку", "Purchase Order": "Заказ на поставку"}
+{"schedule": "планирование"}
+{"provider": "провайдер"}
+{"type": "тип"}
+{"schedule": "планирование"}
+{"rating": "оценка"}
+{"availability control": "контроль наличия"}
+{"output": "вывод"}
+{"type": "вид"}
+{"share": "поделиться"}
+{"type": "тип"}
+{"change": "изменить"}
+{"type": "вид"}
+{"action list": "список операций"}
+{"item": "позиция"}
+{"purchase order": "заказ на поставку", "Purchase Order": "Заказ на поставку"}
+{"product": "товар"}
+{"note type": "вид примечания"}
+{"report category": "категория отчета"}
+{"type": "вид"}
+{"download": "выгрузка"}
+{"expiration": "истечение"}
+{"scope": "объем"}
+{"release": "деблокирование"}
+{"space": "пространство"}
+{"update": "обновление"}
+{"type": "тип"}
+{"input": "вход"}
+{"type": "вид"}
+{"check": "проверка"}
+{"input": "вход"}
+{"business partner grouping": "группировка деловых партнеров"}
+{"input": "ввод"}
+{"pattern": "модель"}
+{"type": "тип"}
+{"process": "обрабатывать"}
+{"output": "выход"}
+{"source assignment": "присвоение происхождения"}
+{"type": "тип"}
+{"use": "использование"}
+{"schedule": "планирование"}
+{"type": "вид"}
+{"update": "обновление"}
+{"tab": "вкладка"}
+{"provider": "поставщик"}
+{"type": "вид"}
+{"output": "выход"}
+{"content": "контент"}
+{"type": "тип"}
+{"purchase order": "заказ на поставку", "Purchase Order": "Заказ на поставку"}
+{"content": "контент", "type": "тип"}
+{"user status": "статус пользователя"}
+{"schedule": "расписание"}
+{"get": "получить"}
+{"simulation run": "прогон моделирования"}
+{"check": "проверить"}
+{"type": "тип"}
+{"type": "вид"}
+{"type": "вид"}
+{"pattern": "шаблон"}
+{"term": "термин"}
+{"schedule": "планирование"}
+{"type": "тип"}
+{"type": "тип"}
+{"edit": "редактировать"}
+{"change": "изменение"}
+{"change": "изменение"}
+{"input": "ввод"}
+{"change": "изменение"}
+{"characteristic": "признак"}
+{"update": "обновить"}
+{"edit": "редактировать"}
+{"provider": "поставщик"}
+{"type": "вид"}
+{"reporting": "отчетность"}
+{"provider": "провайдер"}
+{"space": "пространство"}
+{"service confirmation": "подтверждение сервиса"}
+{"permission": "разрешение"}
+{"space": "пространство"}
+{"release": "деблокирование"}
+{"contract": "договор"}
+{"type": "вид"}
+{"validity period": "период действия", "tax exemption": "освобождение от уплаты налога"}
+{"client": "клиент"}
+{"use case": "случай использования"}
+{"utilization": "загрузка"}
+{"schedule": "планирование"}
+{"type": "вид"}
+{"available capacity": "доступная мощность"}
+{"Personal Information": "персональные данные"}
+{"print": "печатать"}
+{"supplement": "дополнение"}
+{"credit profile": "профиль кредита"}
+{"type": "вид"}
+{"type": "тип"}
+{"space": "пространство"}
+{"type": "вид"}
+{"contract": "контракт"}
+{"contract": "договор"}
+{"type": "вид"}
+{"base value": "ссылочное значение"}
+{"account": "учетная запись"}
+{"profit center": "МВП"}
+{"general settings": "общие настройки"}
+{"contract": "контракт"}
+{"classification type": "вид классификации"}
+{"type": "тип"}
+{"run": "выполнить"}
+{"card": "карта"}
+{"characteristic": "характеристика"}
+{"output": "вывод"}
+{"consumption": "расход"}
+{"type": "тип"}
+{"type": "вид"}
+{"provider": "провайдер"}
+{"tab": "вкладка"}
+{"topic": "раздел"}
+{"content": "контент"}
+{"change": "изменить"}
+{"controller": "оператор"}
+{"available capacity": "доступная мощность"}
+{"allocation": "присвоение"}
+{"type": "вид"}
+{"wizard": "ассистент"}
+{"tab": "закладка"}
+{"type": "тип"}
+{"type": "тип"}
+{"change": "изменить"}
+{"check": "проверка"}
+{"mapping": "мэппинг", "type": "вид"}
+{"content": "контент"}
+{"tab": "закладка"}
+{"vendor account": "счет кредитора"}
+{"transfer": "перенести"}
+{"schedule": "запланировать"}
+{"evaluation": "оценка"}
+{"pause": "приостановка"}
+{"instance": "инстанция"}
+{"change": "изменить"}
+{"edit": "обработать"}
+{"form": "форма"}
+{"preferences": "настройки"}
+{"entry": "ввод"}
+{"process": "обработать"}
+{"calculation": "расчет"}
+{"output": "вывод"}
+{"schedule": "запланировать"}
+{"account": "учетная запись"}
+{"team member": "участник группы"}
+{"rework": "доработка"}
+{"check": "проверка", "limit": "предел"}
+{"type": "вид"}
+{"mapping": "мэппинг"}
+{"admission": "допуск"}
+{"record type": "вид записи"}
+{"input": "ввод"}
+{"mapping": "сопоставление"}
+{"resume": "резюме"}
+{"activity type": "тип активности"}
+{"exception": "особая ситуация"}
+{"provider": "провайдер"}
+{"provider": "провайдер"}
+{"order": "поручение"}
+{"check": "проверка"}
+{"data staging": "предоставление данных"}
+{"change": "изменение"}
+{"mapping template": "шаблон сопоставления"}
+{"change": "изменить"}
+{"activate": "активация"}
+{"change": "изменение"}
+{"service confirmation": "подтверждение сервиса"}
+{"edit": "редактировать"}
+{"type": "вид"}
+{"range": "диапазон"}
+{"event type": "тип события"}
+{"destination": "адрес"}
+{"exception": "особая ситуация"}
+{"lot": "пакет"}
+{"type": "тип"}
+{"task list": "список задач"}
+{"copy": "скопировать"}
+{"available capacity": "доступная мощность"}
+{"schedule": "приложение"}
+{"type": "тип"}
+{"user ID": "идентификатор пользователя"}
+{"release": "деблокировать"}
+{"service confirmation": "подтверждение сервиса"}
+{"type": "тип"}
+{"destination": "адрес назначения"}
+{"request": "требование"}
+{"type": "тип"}
+{"contract amount": "сумма контракта"}
+{"Environment, Health and Safety": "управление данными по охране здоровья и защите окружающей среды"}
+{"copy": "копирование"}
+{"trace": "трассировка"}
+{"target attribute": "атрибут цели"}
+{"type": "тип"}
+{"tenant": "арендатор"}
+{"change": "изменение"}
+{"Information Lifecycle Management": "Information Lifecycle Management"}
+{"client": "мандант"}
+{"process": "обработать"}
+{"copy": "копирование"}
+{"contract": "контракт"}
+{"type": "тип"}
+{"contract": "контракт"}
+{"update": "обновлять"}
+{"set": "настроить"}
+{"quota": "квота"}
+{"workflow": "процесс"}
+{"change": "изменение"}
+{"calculation type": "вид расчета"}
+{"content": "контент"}
+{"use": "использование"}
+{"cancel": "сторнировать"}
+{"in process": "в обработке"}
+{"charge": "сбор"}
+{"pack": "упаковать"}
+{"update": "обновлять"}
+{"rating": "тарификация"}
+{"branch": "ветвь"}
+{"exit": "выйти"}
+{"service confirmation": "подтверждение выполнения сервиса"}
+{"rate": "курс"}
+{"production version": "вариант изготовления"}
+{"distribution": "распространение", "collection": "коллекция"}
+{"type": "вид"}
+{"contract": "договор"}
+{"service confirmation": "подтверждение сервиса"}
+{"mark": "метка"}
+{"schedule": "график"}
+{"start time": "время начала"}
+{"download": "выгружать"}
+{"wizard": "ассистент"}
+{"contract": "договор"}
+{"type": "вид"}
+{"transaction": "операция"}
+{"type": "вид"}
+{"type": "вид"}
+{"edit": "редактировать"}
+{"account": "клиент"}
+{"space": "пространство"}
+{"use": "использование"}
+{"control": "контролировать"}
+{"type": "тип"}
+{"type": "тип"}
+{"type": "вид"}
+{"notification": "уведомление"}
+{"release": "деблокирование"}
+{"historical data": "данные за прошлый период"}
+{"contract": "договор"}
+{"access": "переход"}
+{"type": "вид"}
+{"type": "вид"}
+{"activity": "активность"}
+{"pricing date": "дата цены"}
+{"use": "использование"}
+{"download": "выгрузка"}
+{"impact": "влияние"}
+{"monitor": "отслеживать"}
+{"tab": "вкладка"}
+{"category": "тип"}
+{"contract": "контракт"}
+{"output": "выход"}
+{"release": "деблокировать"}
+{"record": "запись"}
+{"payment terms": "условия платежа"}
+{"display": "показать"}
+{"get": "получить"}
+{"monitor": "отслеживать"}
+{"form": "форма"}
+{"edit": "редактировать"}
+{"assignment": "присвоение"}
+{"purchase order": "заказ на поставку", "Purchase Order": "Заказ на поставку"}
+{"copy": "скопировать"}
+{"purchase order": "заказ на закупку", "Purchase Order": "Заказ на закупку"}
+{"schedule": "расписание"}
+{"type": "тип"}
+{"input": "вход"}
+{"data provider": "провайдер данных"}
+{"edit": "редактировать"}
+{"connection": "подключение"}
+{"record": "запись"}
+{"authorization number": "номер полномочий"}
+{"use": "использование"}
+{"reclassification": "реклассификация"}
+{"end time": "время окончания"}
+{"label": "метка"}
+{"balance": "сальдо"}
+{"scope": "объем"}
+{"contract": "контракт"}
+{"output type": "вид вывода"}
+{"type": "тип"}
+{"home page": "первая страница"}
+{"substitution": "замена"}
+{"use": "использовать"}
+{"reporting": "отчеты"}
+{"schedule": "расписание"}
+{"notification": "сообщение"}
+{"input": "ввод"}
+{"activity": "активность"}
+{"content": "контент"}
+{"schedule": "запланировать"}
+{"checkout": "чек-аут"}
+{"service provider": "исполнитель работ"}
+{"communication type": "вид коммуникации"}
+{"transport": "транспорт"}
+{"type": "вид"}
+{"transaction": "сделка"}
+{"contract": "договор"}
+{"revenue recognition": "признание выручки"}
+{"edit": "редактировать"}
+{"conversion rule": "правило пересчета"}
+{"apply": "применять"}
+{"account": "счет"}
+{"change": "изменение"}
+{"regeneration": "перегенерация"}
+{"contract": "договор"}
+{"category": "категория"}
+{"set": "установить"}
+{"type": "тип"}
+{"type": "вид"}
+{"change": "изменение"}
+{"change": "изменение"}
+{"type": "тип"}
+{"type": "вид"}
+{"type": "вид"}
+{"use case": "случай использования"}
+{"type": "тип"}
+{"settlement": "расчет"}
+{"carrier": "перевозчик"}
+{"severity": "степень серьезности"}
+{"JIT call": "отзыв из производства"}
+{"item type": "вид элемента"}
+{"type": "вид"}
+{"connection": "подключение"}
+{"trace": "трассировка"}
+{"change": "изменение"}
+{"type": "вид"}
+{"input": "вход"}
+{"change": "изменить"}
+{"duplicate": "дубликат"}
+{"controller": "оператор"}

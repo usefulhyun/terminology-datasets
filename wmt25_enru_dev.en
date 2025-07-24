@@ -1,0 +1,500 @@
+Indicates if a configuration item or configuration step is specific to a localized solution version.
+You run allocation cycles in the Run Allocations app.
+Depending on your use case, you can choose between the following types of allocations:
+You can only display and use this Planned Count Date Interval field when you use the date selection type Relative.
+If you want to remove a bookmark, again click the bookmark icon on the corresponding data provider or data product page.
+The performance of the model version is evaluated using two main indicators.
+You can personalize various preferences relating to which notifications you want to receive, and how and where they are displayed.
+Click the New Fact Model tile to open the wizard, specify a name for your model, and click Step 2.
+The existing draft version is set to Replaced status and changes are saved as a new draft version.
+The applications where the group is used, for example, for an activity type group, the Edit Overhead Allocation Cycles app or the Define Splitting Structure configuration activity can be listed.
+You can see these items on the To Be Written Off  tab and verify that they're non-billable by looking at the Billing Control Category column.
+Using this app, you can define different clause types in various languages.
+There are two procedure types for an automated reprocessing rule.
+Edit a communication system and activate it by saving it.
+The clause types that you define here, are used in other apps.
+You can find the project ID in the json key file that you need for the credentials.
+Select the Union operator from the toolbar and drop it in the canvas and then connect two sources or other nodes to it as inputs.
+The period of time between the end of business and the end of purpose (EoP) for a data set during which the data remains in the database and can be used in case of subsequent processes related to the original purpose.
+This page is an overview of the data provider and the products they sell.
+In a purchase contract, you define the potential set of services, that may be required, for example, for the maintenance and repair of a particular machine.
+You can’t see the validity period in edit mode, you have to switch back to display mode.
+Once a data provider or a data product has been set as as a bookmark, you can retrieve them in this area.You can then open your entries and navigate to the corresponding data provider or data product.
+According to the status, you can perform different actions such as Edit, Delete, Archive, Export to Word, etc on the template or text block.
+If you use predictive accounting for different types of source documents, use this field to filter the documents by type in the Standard view.
+If you select this item type, you have to add Demand Management for each item.
+The issue location in the item is displayed in the production order as a default.
+Some data providers offer free sample data in json format.
+It can be used for searching and filtering the clause types within the app.
+Change existing print queue.
+On the right-hand screen area, you can edit or request detailed information about the HUs and products.
+The union output columns are based on the first source, and the columns of subsequent inputs are mapped, where possible, based on their names.
+Currently, only one space can connect to data lake.
+When a new delivery is made available by the provider, the Status of your data product is outdated.
+From the Replication Schedule button, you can:
+Either the currency of the outgoing side or the currency of the incoming side is one of the selected transaction currencies.
+Load a new snapshot of data to start the partitioning immediately, or alternatively create a schedule to load new snapshot later (or wait until you next schedule run will occur).
+The Impacted Object column shows warnings for objects that will overwrite content on your system.
+Fact Source Attribute Mapping/Fact Source Attribute
+For instance, those that provide different perspectives of an object, such as a contract, contract consumption, and contract history.
+On the Review and export page, review the overview of your package.
+When you apply your data access control to a view, you must map each output column to an appropriate column in the view.
+In the Hierarchy View, you can drill down the selected FSV structure to a specific G/L account.
+In addition to the use of placeholders, you can also enter text manually and change the formatting.
+You can change this schedule defining your own criteria or decide to take immediate deletion actions.
+Data updates can be delivered by the data provider.
+Based on the reference data you create here, you can copy a simulation plan to create multiple simulations with the same reference plan to compare them in the Process pMRP Simulations app.
+When a shared object is added to the code, it's added in the form "spaceName"."objectName" and can directly be accessed, avoiding the need to duplicate the object in your space.
+You will receive a warning once your space has run out of storage and 1 hour to act before it's locked.
+The data provider has entered some details about the product:
+Pause real-time replication to enable editing connection properties.
+Use the Yes/ No switch to change the version to active or inactive respectively.
+As a prerequisite to proceed to the next step in the wizard, your browser needs to be enabled to store cookies.
+Inspection Active Regardless of Supplier Certification
+This function is only available, if you are authorized for the Process IR Derivatives - Collective Processing app.
+Specifies the purpose for which the document is used in a legal transaction, for example, License Agreement.
+You also specify the validity period for the template.
+Based on that and make the change to capacity and see if the capacity situation improves.
+When you use an Overtime Category for a service order item or service confirmation item, the price of the service increases.
+Easily integrate third-party data to your dataset, purchasing analytical data from data providers.
+This varies depending on how the data provider offers their products.
+You can change description, print user, and retention period of the selected print queue.
+Displays the data provider page as consumers would see it in the Data Marketplace.
+Note that specifying a thread limit can lower performances.
+It must be unique for the clause type in each language.
+Here, you can define what action the automated reprocessing rule should take if its procedure type is that of a two-step posting.
+If you want to cancel a service confirmation that doesn't contain any items, you must define the confirmation as Completed before you can cancel the confirmation.
+A method of restricting access to data for which the primary business purpose has ended.
+A payment clearing group is an attribute with which you can categorize your suppliers and customers into groups.
+You want to engage a service provider to repair a machine, but you do not yet know which services are required in detail.
+Otherwise, it is released on the Valid From date.
+If you need to, for example, order a specific tool in the context of your sourcing project, you can select this item type to place a one-off order with little effort.
+Either select Data Products or Providers from the dropdown list next to the search input field.
+You can also maintain tax details (such as Country, Tax Category, and Tax Classification) and Partner Functions (Partner Role, Number and Description).
+Click Capacity Plan Simulation to see and edit the capacity of the corresponding work center.
+A business entity can have more than one key and you can define a key with multiple members.
+Use the expanded view to see more detailed information.
+After registering the activation key, they can perform all data provider tasks.
+Change the risk level for alternatives
+To view the source text block and number of available variants for a text block, choose a text block within a template or in the text block library, and open the Properties pane on the left side of the screen.
+A deposit at notice is an investment or borrowing without defined due dates.
+List all incident-related tasks in the Environment, Health, and Safety system.
+The Create Vendor:
+All data products which have a different contract type, for example License Key, are set to hidden in the search result list.
+Contract for Limit
+Before you can use an SAP S/4HANA Cloud connection, an administrator has prepared the following:
+In the Import Users dialog, choose Import to upload your CSV file according to the defined mapping.
+Retrieve your favorite data providers and data products.
+The Contract for Limit specifies the number of the contract from which you select the items of the performed services in the service entry sheet.
+In the Manage Cash Pools (Version 2) app, the following service provider is supported:
+An additional filter is set and the Maintenance Order Operations tab opens, showing a list of operations for the selected orders.
+Define Recurrence Pattern
+A contract liability is your company’s obligation to transfer goods or services to a customer for which your company has received consideration from the customer (or the payment is due) but the transfer has not yet been completed.
+In the Switch Data Provider dialog:
+Displays data for allocation periods in which allocation consumption is below 20%.
+As a data provider, you decide on the pricing model for a data products: a data product can be either free of charge or require the purchase of a license at a certain cost.
+On a specific tab, choose Edit Prompts at the right corner, and .
+To see the total number of instances, remove this grouping under SettingsGroupRemove Grouping Criterion.
+This helps in determing the revenue recognition method for the project, which allows us to maintain planned costs and revenue.
+You can delete the monitored data for this situation type here by choosing one of the following options:
+The Data Sharing Cockpit is the tool you use as a the data provider.
+The text ID defines the various types of texts relating to a text object.
+Add messages by choosing 0 Enabled for a run type.
+To expose and, therefore, allow consumption by other tools, please see Data Consumption.
+Under Storage Consumption, you monitor how much spaces task logs consume in your tenant.
+If you want to publish a sourcing project with at least one item of type Project Item, you have to add at least one procurement project and the related information in the section Project Details.
+If the new work center has order operations that have already been dispatched or are in process and that overlap with the target week, these are added automatically to your schedule.
+Under Schedule Task Log Deletion, you define criteria to schedule regular task log deletions that are automatically triggered by SAP Analytics Cloud.
+You can choose an Overtime Category to capture the time invested by service technicians in addition to their planned working time.
+To see all available activity types, open the Activity Type input help in the filter area and choose Go.
+Access SAP HANA Deployment Infrastructure containers through  and use your data in the Data Builder or gain access to your space data from your HDI container.
+Pause and restart real-time replication
+Use Real-Time Replication
+Delete audit logs and free up disk space.
+Click Save to move to the next connection creation wizard step in .
+Some data products are available as one-time shipments, for other data products regularly updates are released by the data provider.
+[read-only] The semantic usage of the output of an intelligent lookup is always set to Relational Dataset.
+There are six types of messages:
+To manually map input columns to union output columns, drag a column from the left list and drop it onto a column in the right list.
+You can update the user email addresses used for logon.
+Total available capacity of the work center
+The expected value cannot be higher than overall limit.
+Organizational Unit Type
+Version History Tab
+Change role assignment
+When looking for suitable resources or resource requests, you can specify whether skills matching is based exclusively on the resource's skills (that is, the skills entered in the employee fact sheet) or whether to include the skills required in other requests to which the resource was or is assigned.
+Using the Process Payment Service Providers app (job template Import Payment Advice Note Data from Digital Payments Add-On)you periodically query the payment advice notes from SAP Digital Payments Add-On .
+Complete the Business Purpose section to let others know what your view is about.
+Is displayed when a production version exists without a specified production line.
+Enter the SAP ABAP system client number.
+You can use the Cancel button to cancel a service confirmation that has been set to completed.
+Choose the result type.
+Overhead Allocation (New)
+Add Sales Order
+Choose Define Recurrence Pattern.
+You can only display and use these two Planned Count Date From - To fields, when you use the date selection type Static.
+Documents - Action Required
+The Data Provider profile provides additional information about other products or product groups.
+If the template offers the option, you can choose Capture Data Context for this situation type.
+Edit Service Contracts
+Using the Process Payment Service Providers app (job template Settlement of Payment Service Providers) you then process the received payment advice notes.
+Delivery Type Code
+Select your dedicated space from the drop-down menu.
+[read-only] The output of an intelligent lookup cannot be exposed for consumption.
+BOM Usage Type
+Check Expiration Date
+Storage Type Data
+Transfer Clarification Cases
+Actual Overhead Allocation:
+Get User Name
+Contract Item Information:
+See the next run if a schedule is set for the remote table.
+You can compare the BOMs as follows:
+The following work item types are available:
+Download the mappings to a .CSV file.
+Per default, the user who creates a schedule is the owner of the schedule.
+Go to Data Builder, choose the dedicated space → New Graphical View → Sources → DWC_AUDIT_READER (schema) → drag and drop the view DDP_AUDIT_LOG onto the canvas.
+New Purchase Order
+If you do not specify an end date, the schedule runs indefinitely.
+Click Toggle Preview Changes to display the data provider page as consumers would see it in the Data Marketplace.
+The following visualization types are available:
+This is why  has a log deletion schedule activated by default.
+Business Partner Rating
+Budget Availability Control
+For an overview of all available outputs, see .
+Storage Type Data.
+Click Share Schedule.
+Confirmation Date Type
+Change Billing Documents
+Choose the Confirmation type.
+For more information, see the action list.
+A feedback item can have the following statuses:
+View Purchase Order
+Product Sourcing Projects
+Item Note Type
+Generic Report Category
+Use Case Type
+You can download a list of configuration items and configuration steps.
+Expiration of Central Purchase Contract
+The Custom Code Migration app helps you to decide whether you want to add or remove a package to/from the scope.
+Allows you to release the maintenance order.
+Space Management Overview
+Update sales contracts:
+Bank Account Type
+You can use one of the following types of input datasets:
+You can choose to reference the following types of FS items:
+Check Job Status
+Providing Input Parameters
+Business Partner Grouping
+For each input entity record, if it is matched with no lookup entity record with a score above this threshold, then the input entity record is assigned to the Unmatched results category.
+Specifies the recurrence pattern of the supplier invoice.
+You can select a checklist type and perform the following actions:
+With this service, you can process the following:
+These records are not pushed to the output of your intelligant lookup unless you select the Include Unmatched Records option.
+Source Assignment 1
+There are two status types:
+use input parameters
+Schedule Output for Central Purchase Contracts
+You can filter results based on the Work Center Group Type.
+Update the email address a user logs on with
+The details are provided under the following tabs:
+Editing a Service Provider
+Interest calculation type
+The output can have one of the following statuses:
+You can change the content using the following ways:
+For this item type you can switch from Material to Service and vice versa.
+Purchase Order Shipped
+Choose the content form type.
+This is the standard user status.
+Impact on the Schedule
+Get Page Dimensions
+Enhanced Simulation Run
+Choose this button to verify whether the G/L account numbers that you want to use have already been used in the delivered chart of accounts.You can see the result of the check under G/L Accounts in the Validation Info column.
+For more information, see Response Type above.
+Following object types are available:
+The system provides the following start date types:
+Define the recurrence pattern of your job and click Step 3.
+Term and KPI Status
+Schedule Remote Table Replication
+You can enter the following activity types as filters:
+You can receive notifications for the following document types:
+Select the Edit Vehicle Data button.
+You can change the logging settings for extended statistics per migration object.
+Change to Input Parameter
+Use Input Parameters in the Data Builder
+Change Reconciliation Key
+Contingent Worker Characteristics
+Update Purchase Requisition (Status:
+Click Create and Edit.
+Importing Service Providers
+Service Confirmation Type
+Reporting - Variants
+- Contact Data Provider
+Create and delete spaces
+Service Confirmation (SVC2)
+This permission is optional.
+You can unlock the space to free up some storage.
+Release DCD cases
+Your contract includes a total number of available capacity units per month which you can allocate as you wish to the resources (within the permitted ratio) in the dedicated Tenant Configuration page of the Configuration area.
+You can store the following attachment types:
+Specify the validity period of the tax exemption letter.
+Create an FSM Client
+Integration Use Case
+Utilization is calculated as follows:
+Allows you to cancel a maintenance plan schedule.
+Restriction Type ID
+Available capacity on resource level
+The Personal Information page opens.
+The Print labels page opens.
+You can find the description supplement in three places:
+The credit profile contains the following data:
+Supported Allocation Types
+Procurement project types
+Working with your Space
+Journal Entry Type:
+Specifies the customer for the contract.
+The following entry areas are available when you create a contract:
+Select a team type.
+The base value from which depreciation is calculated.
+SAP BTP Subaccount
+It provides a consolidation view along the respective hierarchy by populating the Consolidation Unit Eliminated, Profit Center Eliminated, and/or Segment Eliminated reporting dimensions.
+For more information on the settings, see General Settings.
+Creating a contract that references a purchase requisition.
+Income Classification Type
+Ledger Run Types
+Opens selected cycles in Run Allocations app.
+You can filter the data shown in the cards.
+Characteristic 20 Value
+Standard Texts in Purchase Order Outputs
+Displays periods with allocation quantity consumption of 80-100%.
+Contract request types
+Filter by Contract Type
+For more information for data providers, see .
+IDOC Integration tab
+Topic: you can configure the following settings:
+SAP Content for Compliance Requirements
+Change to Account Currency
+Defines if data controllers can be assigned to the business partner.
+Available capacity is calculated as follows:
+Character value allocation
+Equipment Type ID
+The aggregation wizard opens.
+The Logistics tab of a document.
+Select the release type by selecting the corresponding radio button.
+Displays the visual inspection type.
+Change the settings of a text block
+Check Approval Request
+Product type mapping
+Select a content object and click (More).
+Data Analysis Tab
+Vendor account for the operator in SAP FI Accounts Payable (A/P)
+When you want to transfer asset subnumbers, you need to consider the following:
+Schedule MRP Rescheduling Checks
+Evaluation of Selection Criteria
+Pause Email Notifications
+Managing Data Lake Instances in the SAP HANA Cloud documentation.
+Once you set the implementation status, you cannot change it back.
+You can edit multiple parameters in the following sections:
+Permissions on Forms
+These are the preferences:
+Manual Journal Entry
+Process Compliance Request
+JVA Cost Calculation
+Display output items
+Schedule production orders
+Global Account Type
+Unavailable Team Member
+Rework not Required
+Check Amount Limit
+Change Type Determination
+The mapping required varies, depending on the type of data source.
+For more information, see Workload Classes and Admission Control in the SAP HANA Cloud, SAP HANA Database Administration Guide.
+It indicates the Record Type.
+Input Parameter Properties
+The following mapping is required:
+The Resume Rank can change in the following situations:
+Select Activity Type
+Click Exception button.
+Displays the ID of the respective data provider.
+You can bookmark your favorite data providers and data products to quickly retrieve them.
+Create SLOC order.
+Check New Document
+Data Staging Service
+Once you have released the order, you can no longer change the estimated costs.
+For more information, see Mapping Template in Concepts.
+Navigate to the Change Material app.
+Activate Despite Inspection Stock
+Change or unassign sources of supply
+Process Service Confirmations
+You can edit only KPIs created by customers.
+The are two types of packing instructions:
+You can specify one of the following possible time range validities:
+IoT event type
+You can add multiple destinations.
+The following exception occurred:
+Enter a key in the Lot field and choose Create.
+Creating Action Types
+You can now sort and group the task list by column content.
+Copy Model Configuration
+Available capacity on resource level v2
+You can use this app to schedule application jobs for the following tasks:
+There are two types of tax regulations in India:
+Enter the user ID of the person who is responsible for the profit center.
+Release all Classifications
+Edit Service Confirmations
+You can suppress the following error types:
+The destination contains the following property:
+Using the Process Payment Service Provider app and the job template Request Payment of Credit Memos, you reclaim credit memos granted.
+There are two types of service contract.
+Proposed Contract Amount
+Find or filter all tasks in Environment, Health, and Safety.
+Copy Purchase Contract
+Track and Trace Purchase Orders
+Elimination Target Attribute
+Data Change Types
+Have an SAP Analytics Cloud tenant.
+Create and Change Assignment
+Information Lifecycle Management
+To ingest data from a third-party SQL client, select the first checkbox Enable Data Ingestion.
+Process Compliance Requests
+Copy in Item View
+You need to ensure that the contract type is provided.
+You can also maintain your own team types.
+Contracts with no expiration date.
+For more information, see How to update your company profile.
+Analytical Datasets must be set for consumption first in .
+For more information, seeManaging Quota and Entitlements
+The To Do task workflow includes the following steps:
+Change date and amount
+Condition Calculation Type
+Choose Delete Content.
+Use SAP BW Bridge Content
+You can cancel the selected returns.
+But you can add and delete attachments only if you edit the service entry sheet (that means the service entry sheet must be in status In Process).
+Standalone selling price (optional) for recurring charges:
+Click Pack Items.
+Cannot update or delete invoices
+Fore more information, see Individual Usage Rating.
+By default, the branch is master.
+Once you have completed your editing, exit edit mode by clicking Close at the bottom of the page or choosing Exit Edit Mode in the user actions menu.
+You can release service confirmations that have status completed for billing.After you have released a service confirmation, the system creates the required billing document requests.
+The sales rate changes
+Production Version Group
+Distribution and Collection
+Restriction Type Settings
+Contract Price Renegotiation
+This view displays released service orders for which no service confirmations have been created.
+Mark questions as Mandatory or Optional
+Click Save to save the new close schedule.
+You can also set the start time manually.
+You can upload and download multiple attchments at a time.
+Click Create to open the connection creation wizard.
+Select Contract Template
+Storage type and bin
+REVE Transaction Reversed
+Indicates the type of attachment.
+You have the following version types available:
+Choose the Edit Rule button.
+Display all contacts of the selected account.
+Spaces and Pages
+Use Task Chain Notifications
+For some connection types that use a Data Provisioning agent to connect to the source, for example SAP ABAP, SAP HANA, or Microsoft SQL Server, you can define advanced properties in an additional wizard step to provide you more control over your connectivity setup.
+There are three types of pricing tree components:
+Displays whether a message is enabled for a run type.
+Indicates the type of decomposition.
+Choose the relevant notification.
+Release Pending Batches
+You can also review historical data in the following sections:
+For more information on service contract determination, see .
+Click the  button to access the Range view.
+Define the recipient/sender types for correspondence.
+Email Notification Type
+You can create a follow-up activity.
+Resulting Pricing Date
+Use value driver trees for simulations
+Download value group data to a spreadsheet or .csv file
+Choose an impact level from the Impact drop down menu.
+Monitor the persistent views:
+You can close the application, the tab remains.
+name, category, ID and description.
+You can display a condition contract.
+These records are automatically pushed to the output of your intelligant lookup.
+Release Purchase Requisition or Send Purchase Order to Vendor
+Record SuccessFactors Application
+Credit Memo Payment Terms
+Display Item Details
+Get Project Version
+Monitor user activities
+Working with Forms
+Choose Edit and make your changes.
+Cost Object Assignment:
+The invoice is referenced to a purchase order.
+Copy a Service Asset
+Component purchase order
+The order operation is included in your schedule.
+The Transaction Type is a mandatory field.
+This view has no input parameters.
+Single data provider:
+Choose Create and Edit.
+Single User Connection
+Record Ariba Application
+Authorization Number ()
+Reuse object properties
+Cash Call Reclassification:
+Creation end time
+Invoice Label Displayed
+Asset Balances (Deprecated)
+Edit the scope status of the selected company codes.
+For more information, see Support for displaying contract information.
+Define the format output type
+Quality notification type
+Choose the Home icon to go to the Home page.
+Substitution Using App
+How to use the configuration step/app
+Integrations and Reporting
+Instance time (Schedule)
+Publish Event Notification
+The DDR heuristic uses the following input:
+To access the lists, choose Recent Activity or Frequently Used in the user actions menu.
+The transport can contain the following content:
+The forecasted work center utilization is shown in the Schedule Maintenance Order Operations app.
+The Start Checkout dialog box appears.
+Enter the date on which the service provider performed the service.
+Communication Type Selected
+View the transport data
+Choose a subscription type
+For more information on the legal transactions, see the Legal Transactions app.
+This is the date the contract was signed.
+The revenue recognition is updated in the following cases:
+In this stage, you can edit or delete the price.
+A conversion step has one or more conversion rules.
+You can also apply multiple range filters at once.
+Terms for Account Management
+You can create or change a long text for the master inspection characteristic.
+In Process (Regeneration):
+Specify Contract Determination Option for Transaction Types
+Payment approval category
+You can define these settings as needed:
+The dates that are available for selection are any date-related characteristics maintained for the catalog use type Backorder Processing in the  app.
+Specify the details for the shift note type.
+Change the status of bank statement items.
+Email Infrastructure Change
+A settlement partner type can have the following values:
+Syntax per Characteristic Type
+For more information on the processing type, see further below.
+Consider the following use cases:
+For example, change the release type.
+Blocking and Deletion of Personal Data in Settlement Management
+For more information, see Enable Carriers to Self-Book Appointments.
+Indicates the severity of the alert.
+JIT Call Delivery
+Select Page as the Item Type.
+Email Type Code
+You can now check the connection.
+Track and Trace Outbound Deliveries
+Change the approval status of the selected drafts to Rejected.
+The document information is fetched based on the document Type.
+A combination of relevant input parameters
+Create and change planning levels
+The Duplicate Attendees dialog opens.
+For more information about BP data controller authorization, refer to .

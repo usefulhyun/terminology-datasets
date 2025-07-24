@@ -1,0 +1,500 @@
+{"design": "Entwurf", "state": "Zustand"}
+{"check": "Kontrolle"}
+{"provider": "Provider"}
+{"percentage": "prozentual"}
+{"consumption model": "Verbrauchsmodell"}
+{"task log": "Aufgabenprotokoll"}
+{"space": "Space"}
+{"consumption model": "Verbrauchsmodell"}
+{"membership": "Zugehörigkeit"}
+{"data provider": "Datenprovider"}
+{"consumption model": "Verbrauchsmodell"}
+{"release": "Release"}
+{"transfer": "Übernahme"}
+{"category": "Kategorie", "issue": "Problem", "panel": "Fenster"}
+{"order": "Auftrag"}
+{"assignment": "Einsatz"}
+{"type": "Typ"}
+{"release": "Release"}
+{"schedule": "Terminplan"}
+{"schedule": "Planung"}
+{"schedule": "Terminplan"}
+{"message": "Nachricht"}
+{"create": "erstellen"}
+{"data provider": "Datenanbieter"}
+{"expand": "aufklappen"}
+{"create": "erstellen"}
+{"space": "Platz"}
+{"data provider": "Datenprovider", "create": "erstellen"}
+{"Machine Learning": "Machine Learning", "machine learning": "Machine Learning", "Knowledge Base": "Knowledge Base", "knowledge base": "Knowledge-Base", "create": "erstellen"}
+{"history": "Verlauf"}
+{"provided": "angegeben"}
+{"data provider": "Datenprovider"}
+{"line of business": "Geschäftsbereich", "storage": "Speicher"}
+{"business name": "betriebswirtschaftlicher Name"}
+{"substitution": "Ersetzung"}
+{"trigger": "Auslöser"}
+{"create": "erstellen"}
+{"space": "Space"}
+{"side panel": "Seitenbereich"}
+{"bucket": "Periode"}
+{"item": "Position"}
+{"percentage": "prozentual"}
+{"trigger": "Auslöser"}
+{"monitoring": "Überwachung"}
+{"schedule": "Terminplan"}
+{"space": "Space"}
+{"side panel": "Seitenbereich"}
+{"service": "Service"}
+{"blocked": "gesperrt"}
+{"create": "erstellen"}
+{"data provider": "Datenprovider"}
+{"release": "Release"}
+{"access control": "Zugriffskontrolle"}
+{"access control": "Zugriffskontrolle"}
+{"selection": "Selektion"}
+{"create": "erstellen"}
+{"validity period": "Gültigkeitszeitraum"}
+{"source": "Quelle"}
+{"connector": "Konnektor"}
+{"data provider": "Datenprovider"}
+{"schedule": "Terminplan"}
+{"support": "Unterstützung"}
+{"sequence": "Sequenz"}
+{"work center": "Arbeitsplatz", "operation": "Vorgang"}
+{"data provider": "Datenprovider"}
+{"residence period": "Residenzzeit"}
+{"create": "anlegen", "type": "Art"}
+{"personal data": "personenbezogene Daten"}
+{"scheduled": "terminiert", "reset": "zurücksetzen"}
+{"create": "erstellen"}
+{"message": "Nachricht"}
+{"space": "Space"}
+{"space": "Space"}
+{"revision": "überarbeitete Version"}
+{"space": "Space"}
+{"compliance": "Compliance"}
+{"end date": "Enddatum"}
+{"review": "Prüfung"}
+{"assembly": "Zusammenstellung"}
+{"consumption model": "Verbrauchsmodell"}
+{"business name": "betriebswirtschaftlicher Name"}
+{"create": "erstellen"}
+{"schedule": "Zeitplan"}
+{"data provider": "Datenprovider"}
+{"end date": "Enddatum", "release": "Release", "start": "Start"}
+{"create": "erstellen"}
+{"source": "Quelle"}
+{"data provider": "Datenprovider"}
+{"reference": "Verweis"}
+{"process": "verarbeiten", "create": "erstellen"}
+{"scheduling": "Terminierung"}
+{"residence period": "Residenzzeit"}
+{"consumption model": "Verbrauchsmodell"}
+{"action": "Aktion", "Action": "Aktion"}
+{"schedule": "Terminplan"}
+{"monitoring": "Überwachung"}
+{"query": "Abfrage"}
+{"association": "Assoziation"}
+{"download": "Download"}
+{"assignment": "Einsatz"}
+{"data provider": "Datenprovider"}
+{"stored procedure": "gespeicherte Prozedur"}
+{"type": "Typ"}
+{"notification": "Meldung"}
+{"space": "Space"}
+{"work center": "Arbeitsplatz"}
+{"key mapping": "Schlüsselzuordnung"}
+{"message": "Nachricht"}
+{"data provider": "Datenprovider"}
+{"data provider": "Datenprovider"}
+{"allow": "erlauben"}
+{"reviewer": "Prüfer"}
+{"property": "Eigenschaft"}
+{"space": "Space"}
+{"space": "Space"}
+{"reference": "Verweis"}
+{"trigger": "Auslöser", "image": "Bild"}
+{"data provider": "Datenprovider"}
+{"header": "Überschrift"}
+{"space": "Space"}
+{"data provider": "Datenprovider", "create": "erstellen"}
+{"space": "Platz"}
+{"space": "Space"}
+{"side panel": "Seitenbereich"}
+{"authorization": "Autorisierung"}
+{"create": "erstellen"}
+{"revision": "überarbeitete Version"}
+{"consumption model": "Verbrauchsmodell"}
+{"offset": "Offset"}
+{"fee": "Vergütung"}
+{"trigger": "Auslöser"}
+{"reporting period": "Berichtsperiode"}
+{"update": "Aktualisierung"}
+{"data provider": "Datenanbieter"}
+{"create": "erstellen"}
+{"data provider": "Datenprovider"}
+{"create": "erstellen"}
+{"consumption model": "Verbrauchsmodell"}
+{"deploy": "übernehmen"}
+{"work center": "Arbeitsplatz"}
+{"data provider": "Datenprovider"}
+{"set": "Set"}
+{"type": "Typ"}
+{"update": "Aktualisierung"}
+{"item": "Position"}
+{"space": "Space"}
+{"contract": "Kontrakt"}
+{"transaction": "Vorgang", "renewal": "Erneuerung"}
+{"notification": "Meldung", "process": "Vorgang"}
+{"space": "Space"}
+{"root": "Stamm"}
+{"space": "Space"}
+{"select": "auswählen"}
+{"space": "Space"}
+{"layer": "Schicht", "user": "Anwender"}
+{"monitoring": "Überwachung"}
+{"schedule": "Zeitplan"}
+{"service": "Dienstleistung"}
+{"create": "erstellen"}
+{"timeframe": "Zeitrahmen"}
+{"control": "Kontrolle"}
+{"Machine Learning": "Machine Learning", "machine learning": "Machine Learning"}
+{"reject": "ablehnen"}
+{"create": "erstellen"}
+{"consumption model": "Verbrauchsmodell"}
+{"trigger": "Auslöser", "insert": "einfügen"}
+{"space": "Space"}
+{"create": "erstellen"}
+{"mapping": "Zuordnung"}
+{"space": "Raum"}
+{"available capacity": "verfügbare Kapazität"}
+{"trigger": "Auslöser"}
+{"operation": "Operation"}
+{"callback": "Callback"}
+{"mapping": "Mapping"}
+{"image": "Bild"}
+{"renewal": "Verlängerung"}
+{"data provider": "Datenprovider"}
+{"space": "Space"}
+{"trigger": "Trigger"}
+{"client": "Client"}
+{"space": "Space"}
+{"data provider": "Datenprovider"}
+{"pause": "pausieren"}
+{"default value": "Standardwert"}
+{"installment plan category": "Ratenplantyp"}
+{"create": "erstellen"}
+{"item": "Element"}
+{"create": "erstellen"}
+{"create": "erstellen"}
+{"use": "Nutzung"}
+{"space": "Space"}
+{"job": "Job"}
+{"space": "Space"}
+{"type": "Art"}
+{"worklist": "Arbeitsliste", "display": "Anzeige", "asset": "Anlage"}
+{"restriction": "Einschränkung"}
+{"selection": "Selektion"}
+{"schedule": "Terminplan"}
+{"operation": "Vorgang", "insert": "einfügen"}
+{"create": "anlegen"}
+{"panel": "Bereich"}
+{"side panel": "Seitenbereich"}
+{"graphical view": "grafischer View"}
+{"create": "erstellen", "space": "Space"}
+{"document": "Dokument"}
+{"space": "Space"}
+{"type": "Typ"}
+{"identifier": "Identifikator"}
+{"source": "Quelle", "canvas": "Grafikbereich"}
+{"Business Users": "Anwender", "business user": "Anwender"}
+{"load": "Load"}
+{"schedule": "Terminplan"}
+{"item": "Item"}
+{"access": "Zugriff"}
+{"schedule": "Dokument"}
+{"data provider": "Datenprovider"}
+{"part": "Part"}
+{"credentials": "Anmeldeinformationen"}
+{"label": "Label"}
+{"create": "erstellen"}
+{"Material Groups": "Materialgruppen", "material group": "Materialgruppe"}
+{"business name": "betriebswirtschaftlicher Name"}
+{"module": "Modul"}
+{"insert": "einfügen"}
+{"schedule": "Terminplan", "share": "teilen"}
+{"space": "Space"}
+{"account": "Account", "Account": "Account"}
+{"start": "Start"}
+{"work center": "Arbeitsplatz"}
+{"notification": "Benachrichtigung"}
+{"check": "Prüfen"}
+{"team member": "Team-Mitglied"}
+{"note": "Hinweis"}
+{"mapping": "Zuordnung"}
+{"document": "Dokument"}
+{"data provider": "Datenprovider"}
+{"section": "Abschnitt"}
+{"transfer": "übertragen"}
+{"update": "Aktualisierung"}
+{"category": "Typ"}
+{"design": "Entwurf"}
+{"notes": "Anmerkungen"}
+{"type": "Art"}
+{"create": "erstellen"}
+{"overhead allocation": "Gemeinkostenverrechnung"}
+{"provider": "Anbieter"}
+{"type": "Art"}
+{"document type": "Belegart"}
+{"type": "Art"}
+{"cohort": "Lerngruppe"}
+{"note": "Anmerkung"}
+{"request": "anfragen"}
+{"scenario": "Scenario"}
+{"message": "Meldung"}
+{"select": "markieren"}
+{"alert": "Alarm"}
+{"create": "erstellen"}
+{"control": "Control"}
+{"space": "Space"}
+{"Machine Learning": "Machine Learning", "machine learning": "Machine Learning"}
+{"provided": "bereitgestellt"}
+{"schedule": "zeitgesteuert verarbeiten"}
+{"type": "Typ"}
+{"Machine Learning": "Machine Learning", "machine learning": "Machine Learning"}
+{"document": "Beleg"}
+{"ID": "ID"}
+{"match": "abgleichen"}
+{"monitor": "überwachen"}
+{"change log": "Änderungsprotokoll", "check": "überprüfen"}
+{"type": "Typ"}
+{"create": "anlegen"}
+{"service": "Service"}
+{"confirmation": "Bestätigung"}
+{"finished": "beendet"}
+{"create": "erstellen"}
+{"business user": "Geschäftsbenutzer"}
+{"record type": "Satztyp"}
+{"subgroup": "Teilkonzern"}
+{"type": "Typ"}
+{"appointment": "Torbelegung"}
+{"schedule": "Terminplan", "share": "teilen"}
+{"confirmation": "Rückmeldung"}
+{"target costs": "Zielkosten"}
+{"position": "Bestand"}
+{"data provider": "Datenprovider"}
+{"asset type": "Anlagenart"}
+{"learner type": "Lerntyp"}
+{"space": "Platz"}
+{"Network": "Network"}
+{"scenario": "Szenario"}
+{"class": "Kurseinheit"}
+{"create": "erstellen"}
+{"safety instruction": "Betriebsanweisung", "type": "Art"}
+{"percentage": "prozentual"}
+{"expired": "ausgelaufen"}
+{"operation": "Vorgang"}
+{"project manager": "Projektmanager", "request": "anfragen"}
+{"instructor": "Kursleiter"}
+{"order": "Auftrag"}
+{"scales": "Staffel"}
+{"change": "ändern"}
+{"create": "erstellen"}
+{"request": "Antrag"}
+{"stage": "Stufe"}
+{"type": "Art"}
+{"subscription": "Subskription"}
+{"type": "Art"}
+{"marker": "Markierung"}
+{"page type": "Seitenart"}
+{"transaction": "Transaktion"}
+{"revision": "überarbeitete Version"}
+{"queue": "Warteschlange"}
+{"schedule": "Terminplan"}
+{"interest calculation": "Zinsrechnung"}
+{"facility": "Objekt"}
+{"access": "Zugriff"}
+{"ID type": "ID-Art"}
+{"message": "Nachricht"}
+{"contract": "Kontrakt"}
+{"line type": "Zeilenart"}
+{"pause": "pausieren"}
+{"item": "Position"}
+{"stored procedure": "gespeicherte Prozedur"}
+{"application log": "Anwendungsprotokoll"}
+{"notification": "Benachrichtigung"}
+{"transfer": "übertragen"}
+{"process": "Vorgang"}
+{"account": "Benutzerkonto"}
+{"monitoring": "Überwachung"}
+{"transaction": "Vorgang"}
+{"indicator": "Indikator"}
+{"selection": "Selektion"}
+{"space": "Space"}
+{"space": "Space"}
+{"access control": "Zugriffskontrolle", "update": "aktualisieren"}
+{"section": "Abschnitt"}
+{"message": "Meldung"}
+{"score": "Punktzahl"}
+{"document type": "Dokumentart"}
+{"retention period": "Aufbewahrungszeitraum"}
+{"expiration date": "Auslaufdatum"}
+{"Group": "Group", "group": "group"}
+{"relationship": "Verknüpfung"}
+{"create": "erstellen"}
+{"create": "erstellen"}
+{"create": "anlegen", "type": "Typ"}
+{"item": "Position"}
+{"selection": "Auswahl"}
+{"compliance requirement": "Konformitätsanforderung"}
+{"query": "Query"}
+{"get": "abrufen"}
+{"open item": "offene Position"}
+{"monitoring": "Überwachung"}
+{"link": "Zuordnung"}
+{"data collector": "Datensammler"}
+{"requested": "angefragt"}
+{"create": "erstellen", "space": "Space"}
+{"request": "anfragen"}
+{"create": "erstellen"}
+{"default value": "Standardwert"}
+{"category": "Kategorie"}
+{"joint venture accounting": "Joint Venture Accounting", "Accounting": "Accounting"}
+{"issue": "Problem"}
+{"create": "erstellen", "space": "Space"}
+{"application help": "Anwendungshilfe"}
+{"condition": "Kondition"}
+{"process": "Prozess"}
+{"termination": "Kündigung"}
+{"message": "Meldung"}
+{"intercompany": "buchungskreisübergreifend", "mapping": "Zuordnung"}
+{"sequence": "Sequenz"}
+{"item": "Artikel"}
+{"vendor": "Lieferant"}
+{"available": "verfügbar"}
+{"update": "aktualisieren"}
+{"format": "Format"}
+{"document": "Dokument"}
+{"customer": "Kunde"}
+{"interface": "Schnittstelle"}
+{"create": "erstellen"}
+{"check": "überprüfen"}
+{"link": "Verknüpfung"}
+{"note": "Notiz"}
+{"control": "Kontrolle"}
+{"display": "Anzeige"}
+{"message": "Meldung"}
+{"condition": "Bedingung"}
+{"claim": "Schaden-/Leistungsfall"}
+{"publish": "veröffentlichen"}
+{"create": "erstellen"}
+{"report": "Report"}
+{"type": "Art"}
+{"compliance requirement": "Compliance-Anforderung"}
+{"service provider": "Serviceanbieter"}
+{"theme": "Motiv"}
+{"assignment": "Einsatz"}
+{"check": "Kontrolle"}
+{"page": "Page"}
+{"attribute": "Attribut", "package": "Packstück"}
+{"attachment": "Anlage"}
+{"attribute": "Attribut"}
+{"compliance requirement": "Konformitätsanforderung"}
+{"item": "Element"}
+{"select": "markieren"}
+{"monitoring": "Überwachung"}
+{"approver": "Genehmigender"}
+{"service": "Service"}
+{"type": "Art"}
+{"item": "Artikel"}
+{"account assignment distribution": "Kontierungsaufteilung"}
+{"custom": "frei definierbar"}
+{"constraint": "Einschränkung", "query": "Abfrage"}
+{"space": "Space"}
+{"substitution": "Substitution"}
+{"monitoring": "Überwachung"}
+{"space": "Space"}
+{"customer": "Debitor"}
+{"customer": "Debitor"}
+{"create": "anlegen"}
+{"run": "Lauf"}
+{"feature": "Merkmal"}
+{"interface": "Schnittstelle"}
+{"upload": "Upload"}
+{"sequence": "Reihenfolge"}
+{"entitlement": "Anrecht", "mapping": "Zuordnung"}
+{"standard available capacity": "Standardkapazitätsangebot"}
+{"confirmation": "Bestätigung"}
+{"deal": "Geschäft"}
+{"string": "Zeichenfolge"}
+{"source": "Datenquelle"}
+{"create": "erstellen"}
+{"message": "Nachricht"}
+{"item": "Posten"}
+{"upload": "Upload"}
+{"list view": "Listensicht"}
+{"select": "auswählen", "Table": "Tabelle"}
+{"following": "Following", "scenario": "Scenario", "issue": "Issue"}
+{"indicator": "Indikator"}
+{"change document": "Änderungsdokument"}
+{"request": "Antrag"}
+{"transaction": "Geschäft"}
+{"log": "Log"}
+{"tile": "Kachel"}
+{"ID": "Kennung"}
+{"association": "Zuordnung"}
+{"audit": "Audit"}
+{"shared object": "gemeinsam genutztes Objekt"}
+{"subscription": "Subskription"}
+{"create": "erstellen"}
+{"transaction": "Geschäft"}
+{"change": "Änderung"}
+{"purchase requisition item type": "Bestellanforderungs-Positionsart"}
+{"tab": "Tab"}
+{"create": "erstellen"}
+{"range": "Bereich"}
+{"audit": "Prüfung"}
+{"collection": "Collection"}
+{"subscription": "Abonnement"}
+{"following": "Following", "action": "Action", "Action": "Action", "issue": "Issue"}
+{"document": "Dokument"}
+{"load": "laden"}
+{"ranking": "Ranking"}
+{"create": "erstellen"}
+{"transaction": "Vorgang"}
+{"processing": "Verarbeitung"}
+{"item": "Artikel"}
+{"message": "Meldung"}
+{"project": "Project"}
+{"compliance requirement": "Compliance-Anforderung"}
+{"compliance requirement": "Compliance-Anforderung"}
+{"connectivity": "Connectivity"}
+{"message": "Nachricht"}
+{"type": "Typ"}
+{"graph": "Diagramm"}
+{"graph": "Diagramm"}
+{"condition": "Bedingung"}
+{"scheduling": "Einplanung"}
+{"procedure": "Vorgehensweise", "Procedure": "Vorgehensweise"}
+{"domain": "Domain"}
+{"create": "erstellen"}
+{"change": "ändern"}
+{"asset": "Objekt"}
+{"classification": "Klassifikation", "icon": "Symbol"}
+{"job": "Auftrag"}
+{"note": "Hinweis"}
+{"note": "Hinweis"}
+{"create": "erstellen"}
+{"period": "Zeitraum"}
+{"notification": "Benachrichtigung"}
+{"query": "Abfrage"}
+{"space": "Space"}
+{"assessment": "Bewertung", "compliance": "Compliance"}
+{"incident": "Meldung"}
+{"item": "Artikel"}
+{"create": "anlegen"}
+{"return": "Meldung"}
+{"relationship": "Verknüpfung"}
+{"single document": "Einzelbeleg"}
+{"notes": "Anmerkungen"}

@@ -1,0 +1,500 @@
+In such cases you may use the Move Items or Merge feature.
+Save and Publish
+Required Permissions for SQL Server Trigger-Based Replication in the SAP HANA Smart Data Integration and SAP HANA Smart Data Quality Installation and Configuration Guide
+To manage your products and licenses, to publish new releases, and to maintain your data provider profile page, the Data Sharing Cockpit offers you tailored apps for each task and workflow.
+Provides you more information regarding the assembly.
+Choose any text block within the Template Structure tab, to add a new condition for it or view the existing condition.
+Revoking Access to the Schedule
+JVA manages the different stages by using equity types.
+You can change the sorting criteria if you like.
+You cannot change connections to partner tools.
+Under Split Components, you find detailed information about how the cost of goods sold was split between the cost components:
+Allows you to schedule a background job to open and close posting periods.
+You receive the response via the import and processing of the payment advice note from SAP Digital Payments Add-On.
+Add Analysis Step
+If you wish to create a role without extending a predefined standard role, choose the blank template.
+You can choose whether data deletion is required for data stored in archive files or data stored in the database, depending on the type of deletion functionality available.
+Adjust the scope of your schedule by adding or removing order operations
+Displays the statement start time.
+Raw Material Assessment
+By clicking this link, you can refine your scheduling options, such as the recurrence of the job.
+Additionally, you can also add notes for the template or text blocks, which can be read by other users who view the template.
+When you click the link for the schedule name, the following applies:
+Adds the selected part or assembly to the Target (In Work) Panel.
+The database then has to decide which job or query has to be dealt with first.
+If these views are persisted, the persistency is deleted as well.
+Trigger (re-)scheduling for all relevant operations in your schedule
+Edit application area
+You can view the product details by selecting any component or assembly under the Components tab.
+Displays the remote source transaction.
+The Data Sharing Cockpit is the central entry point to manage all data provider-specific tasks.
+Set the minimum score needed to match an input record with a lookup record and place it in the Review results category.
+You can share or unshare rules by selecting or deselectingShare Rule on the Reprocessing Rule tab on the detailed page of each reprocessing rule.
+You can then assign the different payment clearing groups to your business partners in their master data.
+Select a date and time and click Delete.
+If you want the automated reprocessing rule to trigger a two-step posting, select 002 (Two-Step Posting) as the value of the Procedure Type field.
+This field is defaulted to the current date and the Return by date field will be a default number of days, defined in customizing (e.g. 30 days for default document type e-bgs), after the handover date.
+To write off amounts associated with Time and Expenses items:
+The text ID defines the various types of texts related to a text object.
+Key users can set up pre-defined work items and work item groups in the app Define Work Items and Groups under Manage Your SolutionConfigure Your SolutionProfessional Services.
+Under Manually Delete Task Log , you determine how long you want to keep the logs and run a manual deletion.
+Replaces the Asset Master Worklist card.
+The file type of the generated legal document can be seen in the File Type field of a legal document object.
+In other words, in addition to entering the amounts and conditions, you enter the notice period and the interest payment date and frequency.
+You can use a keyboard or a scanner - provided the necessary information is available as a bar code - for the same purpose in the tabs on the upper right-hand side of the screen.
+This function is only available, if you are authorized for the Process IR Derivatives - Collective Processing app.
+Defaultable Business Partner
+Activate this field if you don't want to run this job using parallel processing.
+You can then view the scheduled jobs and job results using the Display Scheduled Jobs button.
+Describes a business situation that has occurred on the SAP Fiori launchpad.
+Based on the reference data you create here, you can copy a simulation plan to create multiple simulations with the same reference plan to compare them in the Process pMRP Simulations app.
+In the popup, click into the Reporting Period field, then click Enter.
+This provides you feedback on how many entries within the current business entity there are and how many of them match to entries of the target business entity.
+The color orange indicates that the trace warnings.
+You can create and delete relationships between order operations and add offsets between related operations.
+According to the status, you can perform different actions such as Edit, Delete, Archive, Export to Word, etc on the template or text block.
+You can leave the Quick Edit mode via the Display button, the global Edit button or by leaving the screen.
+The graphic helps you to visualize the overall capacity situation of the selected work center.
+To directly consume data in data flows, the Microsoft SQL Server database must be available on the public internet.
+Indicates the risk class assigned to the business partner.
+They can be deleted with this functionality in order to reduce the footprint for task log data that is no more relevant for you.
+GR/IR Processing - Change Log
+Use the File Repository
+If the button is not available, then other transformations depend on this transformation, and these must be deleted before you can undo it.
+Change the settings for the variables for the whole tab or a group of charts.
+If you have finished editing a release, you can remove the checkmark from the Locked checkbox.
+Navigate to related apps for additional details and processing of documents
+Activate to overwrite the collection specialist for all business partners in the selected collection segment.
+The information that specifies the reason and the goal for the processing of a specific set of personal data.
+Check the forecasted work center utilization for the schedule period
+Once all the operations and suboperations with the execution stage MAIN have finally been confirmed, the system deselects the indicator.
+Enables you to add items to the sourcing project by copying the existing items.
+Personalize the Actions table.
+Add or create measures, attributes, key definitions, associations, and other properties of the business entity as appropriate.
+You can take over a measure of your fact source.
+Select a role template that are based on predefined standard roles.
+To filter requirements for material ATP01 in plant 0001, you can configure your the condition as follows:
+Step 5 begins by either filling in the mandatory Issuing Organization field manually or by searching for business partners in the optional Issuing Authority field.
+FI customer (A/P) and vendor (A/R) accounts for the joint venture partners to be assigned to equity groups within the JOA
+Preview data from any data layer object on the editor panel or in the Repository tab.
+If your source is a cloud source Remote Tables are enabled without the need to set any additional connection properties.
+On a specific tab, choose Edit Prompts at the right corner.
+Installment plan category
+You can either transfer default values to the initial screen using the Installment Plan Type or enter the installment plan parameters directly.
+You can save the data preview as a consumption model.
+Collapse or expand all pairing groups.
+Click on Standard and then select Save As.
+Click an issue.
+One partner, called the operator, manages the operation.
+If you want to assign a different resource or distribute the number of required hours differently, open the request details and select a resource from the Suitable Resources tab.
+You can see all the dates that are auto-generated when the renewal and termination clauses are either defined in the legal transaction or predefined in the context.
+Use this for issuing the material during the production process.
+Overview of the repair objects to be completed.
+If you have chosen to create collective allocations manually, use hashes (#) to replace characteristic values that do not need to be specified explicitly: only a single hash should be used to replace a characteristic value.
+The generated detailed log can then be downloaded using the Download Run Details button and shared with SAP support, if you need help to solve your data flow error.
+[read-only] Displays the deployment and error status of the object.
+Displays the statement end time.
+Enables you to simulate a price for a central purchase contract item.
+If you want to remove a bookmark, again click the bookmark icon on the corresponding data provider or data product page.
+Select the appropriate entries for the Header, Line Separator, Delimiter, and Text Qualifier.
+Under Short Description, the name of the standard template is displayed by default.
+Once you have chosen a business partner, the Issuing Authority field will automatically be filled in and become read only.
+Displays the tax information for this item as returned by your tax partner.
+A reprocessing rule can have bank statement items be posted either in one step or in two steps.
+Pause Real-Time Replication
+Adds a selected settlement date to a scheduling worklist.
+Generic Text Modules for DPP Requirements
+Choose the Display Installment Plan History app.
+Risk class assigned to the business partner (automatically or manually).
+The risk class is automatically derived from the score assigned to the business partner from the view of SAP Credit Management.
+You can also overwrite the risk class of a business partner manually if necessary.
+As a result, the respective purchasers at each of your subsidiaries can create putchase orders in the connected system for as for as large or small a share as they need, rather than being limited to a fixed share that was predetermined by the central contract.
+Once deployment is complete, click  to run the intelligent lookup and review the results.
+Click Deploy, enter a business and technical name for your table, and click Deploy again to save and deploy the table.
+The Short Description, which is displayed under the secure or public text for the notification, is applied from the in-app situation message and cannot be edited separately for the notification.
+To save the new work center in the order operation, you must schedule and dispatch the operation first.
+If these clauses have been predefined in the context, you can still modify the values here, except the renewal or termination type.
+In the Reference Key fields, you can enter customer/supplier details for the accounting transaction.
+To save your ER model in the local repository, choose Save.
+A value list appears and you can select a reporting period.
+For example, you are a company with EUR as the company code currency and USD as the global currency, but you don’t want costs converted to either of those currencies during the allocation run.
+You can also maintain tax details (such as Country, Tax Category, and Tax Classification) and Partner Functions (Partner Role, Number and Description).
+Enter a consolidation chart of accounts (COA) to filter for your financial statement items.
+All entries that have been recorded before this date and time are deleted.
+Once you select a new work center, the utilization forecast is updated automatically.
+Displays the types of activities that took place for situation instances.
+The modification rule for the dynamic modification at the inspection lot level is always mandatory.
+This column shows you if an order operation is included in one or more of your schedules.
+You buy a license to use the product and you can use it whenever you need it and the key is valid.
+You can set the retention time in days.
+To publish the release at a later point in time, click Save.
+Then choose Save.
+You can see how each top-level material contributes to the capacity consumption of the work center.
+Edit, Copy, Delete, or Favorite Objects
+If you need to perform maintenance activities in a source system, you can pause real-time replication for the corresponding connection.
+Select the Projection operator from the toolbar and drop it in the canvas and then connect a sources or other node to it as input.
+Sales Areas, Tax, Partner Functions
+Validity period of text block is over and it is in Expired status
+Remove Unnecessary Remote Table Columns to Reduce Data Loads
+To use this feature, you can select the required legal document from the list view, choose the Generate File button in the menu and select either Generate Word File or Generate PDF File.
+The launchpad displays notifications that are related to your business role, such as leave requests or purchase orders.
+If you have pending changes, they will be saved automatically before deployment.
+You can create a clarification case for the contract account of the selected invoicing request or for the invoicing request itself (source document).
+Return to the business roles overview without saving the business role.
+For example, if today is a Wednesday, it will dispay reporting data from Monday (if data for Monday exist).
+Display the IDs of outbound deliveries
+Indicates whether the cash pool has been deleted or whether it is still in use.
+These template versions use a numbering that is specific to industry practices.
+If the view uses other views that were not changed, these views are not touched by the deployment and therefore the persistency is still available
+If there is no longer a legitimate purpose that requires the retention and use of personal data, it must be deleted.
+You can use this feature if the Handover Engineering Product Structures (3NE) scope item is activated.
+The defaultable counterparty of the bank.
+You can define a measure as an auxiliary measure.
+If you want to change the work center for an order operation that you've already scheduled, you must reset it first.
+Schedule jobs to open and close posting periods
+Save your fact model to make it available for use in other fact models and consumption models.
+A text block variant enables you to reuse it in different business scenarios.
+The Create Vendor:
+An additional filter is set and the Maintenance Order Operations tab opens, showing a list of operations for the selected orders.
+The maximum number of records and the maximum field lengths that can be uploaded are indicated in the template.
+Message for which processing has been canceled.
+You can upload files (using the "+" button) and add links to the service entry sheet, or view existing attachments as follows:
+A schedule task is defined for this view.
+After you have made all entries for your business role you have the following options:
+When you click on a tab, the corresponding Help panel opens and provides you with more details.
+Click Save New and enter a business and technical name to save your perspective.
+The following fields must be completed and consistent on each sheet:
+You cannot enter a production storage location for bulk materials.
+In addition, decide whether the status text shows as subtitle in the container:
+Edit data binding
+If you want to validate imported records, you can use the Manage Multiple Audit Status function to Mass Assign Records for Audit.
+If you connect to a partner tool, you will be redirected to an embedded partner UI to enter the connection properties there.
+To save your changes permanently, following options are available:
+Select the Measure Type
+Choose the relevant Input Parameter for the Data Source of the tab (group of charts).
+That means, you can define how the rule should reprocess incomplete bank statement items for the first posting step.
+The Source Tree panel has two tabs:
+Choose either Source or Target context button as per your requirement.
+The default is wasbs.
+These incidents are not visible to customers.
+A business user is required to execute a process step.
+Create a new template.
+The Add to Sourcing Project  option is enabled only in case of a material item, and purchase requisition is in approved status and not in closed status.
+You can find the SQL port in the list of service details in the SAP HANA Cockpit.
+To view the copy result, choose View Log in the upper right corner of the user interface after the copy is finished.
+To edit a release that has already been published, you need to set its status to Locked.
+You must create a vendor account for the partner in SAP FI accounts payable if:
+Tabs and Data Souces
+Different partners participate at each stage.
+Decide whether your measure should have a currency or unit assigned.
+Text Modules for DPP Requirements
+For each space, you can delete separately all the audit log entries recorded for read operations and all the audit log entries recorded for change operations.
+If the view uses other views that were not changed, these views are not touched by the deployment and therefore the persistency is still available.
+Choose your type of objects and you will be taken directly to the Data Builder or the Story Builder.
+If you need to upgrade or patch your Data Provisioning Agent, or you need to apply any changes to its configuration, you can pause all connections for the Data Provisioning agent.
+Refine your scheduling options, such as the recurrence of the job
+In the Manage Your Solution app under Configure Your Solution make system settings under FinanceContract AccountingPosting and DocumentsDefine Account Assignment Data Relevant to Transactions.
+SAP technical users are also required for customer.specific tasks, such as running and scheduling jobs.
+In the scheduling information dialog that appears when you have clicked the link, you can:
+The SAP HANA Deployment Infrastructure, or HDI for short, provides a service that enables you to deploy database development artifacts to so-called containers.
+For replicated data, the refresh frequency shows if you replicate snapshots or if real-time replication is used to load data changes.
+The information retrieval feature supports you to comply with the relevant legal requirements for data protection by allowing you to search for and retrieve all personal data of a specified data subject.
+Edit Rejected Item
+Save your changes
+These items can't be included under To Be Billed.
+The business partner assigned as a defaultable business partner must has the BP role of Bank ().
+Check how much spaces the task logs are using on a tenant, and define criteria to manually or automatically delete them.
+To generate the billing document request (BDR) for a prepayment amount that is due:
+Add messages by choosing 0 Enabled for a run type.
+Add a New OAuth Client (SAP Data Center)
+For example, while creating a contract, if you need to exit the contract creation process in order to double-check and clarify certain details, you can select Contract in Preparation.
+In addition, various functions to manage the security positions and for period-end closing are available.
+In the side navigation area, click , select a space if necessary, and then click the Local Connections tab.
+If the new work center has order operations that have already been dispatched or are in process and that overlap with the target week, these are added automatically to your schedule.
+Click Add to create a column, enter a name and data type, and specify a SQL expression in the Expression field.
+Sort the groups according to a selected column
+A user license allows your user to log on independently of how many other users are signed in. Click Save.
+A configuration (or implementation) item may contain implementation steps which are executed in end user apps.
+Access SAP HANA Deployment Infrastructure containers through  and use your data in the Data Builder or gain access to your space data from your HDI container.
+Schedule a Job
+Because the implementation step is executed in an end user app, the changes are not transportable from the Q system to P system.
+(Posting Adjustments for Accounting)
+No Approval Required
+Delete audit logs and free up disk space.
+You create allocation segments in the Manage Allocations app.
+You can use YCOA as delivered for your operating COA, or you can use it as a template to be adapted as needed in the implementation phase.
+SQLScript (Table Function) - Use SQL Script with support for  statements, loops, and other more complex structures.
+Create new templates
+Score assigned to the business partner (automatically or manually).
+“Business Partner Id”
+Business partner GUID
+For more information, see Oracle Trigger-Based Replication in the SAP HANA Smart Data Integration and SAP HANA Smart Data Quality Installation and Configuration Guide.
+Indicates the score assigned to the business partner.
+Create a notification using the Create button.
+Persistency and Deployment
+The expected value cannot be higher than overall limit.
+The following standard sharing rules are available:
+The identification number can be used as an alternative to the Business Partner Number to identify a BP.
+For example, if you specify a From scale based on quantity, the scale determines different prices based on different quantities of the material item.
+Process History tab
+UIs and Reports tab
+The default value is False.
+The date and time are not included when you save a filter variant.
+Endpoint URL of the Amazon S3 server.
+The Custom Code Migration app allows you to add or remove packages to/from the scope manually.
+The Cash Flow Statement main tab contains the following three detail tabs where you can review the data:
+Click to open the Manage Variants popup in which you can do the following:
+Contract Account Name
+That means, you can define how the rule should reprocess incomplete bank statement items that fulfil the rule's conditions.
+External transaction ID
+The following source document types are supported:
+Allows you to add open purchase requisition items to an existing purchase order.
+For connections that use the Data Provisioning agent to connect to the source, you can pause real-time replication while updating or maintaining the source or while upgrading the Data Provisioning agent.
+Create the assignment exactly as requested by the project manager.
+The following replication modes are available:
+Measures are quantifiable values that refer to an aggregable field of the underlying SAP HANA View.
+Business Partners App
+Default User Values
+Instance Set to Open
+Business Partner Type
+Contact Person Type
+Data Marketplace and the Data Sharing Cockpit are only available in SAP Data Warehouse Cloud tenants provisioned since January 25, 2021.
+Delete personal data
+You can save the following configurations:
+Processing Clarification Cases
+An additional filter is set and the Maintenance Order tab opens, showing the orders for the selected operations.
+It provides a consolidation view along this consolidation unit hierarchy by populating the Consolidation Unit Eliminated reporting dimension.
+Edit the draft
+User Group Tab
+The data range is the time period for the data.
+Displays the statement.
+New Production Order
+SAP Business Content
+Reviewers are not allowed to make any changes to the schedule and they do not see the utilization forecast shown when the schedule is in Scoping and Refinement.
+Create a session template.
+Select the Save button.
+Data Subject Role
+The following allocation contexts are available:
+How to Realign Schedules
+To enable this, you have to activate Monitor Instances first.
+Case Management App
+Edit purchase requisitions
+Delete the schedule
+Deleting a Schedule
+The following deadlines conditions are available:
+Display, edit, add and remove characteristics for the business document class sales order.
+Create Business Partner
+MDM Business Partner
+Target Business Context
+Production order header
+The tax determination code is defined in the contract accounts of the business partner.
+Select Add Item.
+Assign dynamic modification to inspection plans
+Change in roles
+To create a new item, choose one of the following options:
+Choose the object type.
+Release items in a service confirmation for billing.
+Included in Schedule (Filter)
+Billing Document Category
+Instructs the intelligent lookup to include input records that remain in the Multiple and Unmatched categories after all rules are applied in the output.
+You can then use the following processing functions:
+pending for approval
+For Production Order:
+Business Partner Number
+Business Partner Master
+Business Partner Change
+Business partner is VIP
+Set Application Criteria
+Select a job template.
+You can save all personalized settings as a view or a tile.
+You can condigure similar email notifications for the end of a workflow.
+An equity type describes the reason for a particular association of partners.
+New field to add purchase requisitions to an existing central purchase contract.
+You can navigate from this card to the Display Asset Master Worklist app.
+Pause Real-Time Replication for an Agent
+Creating a Schedule
+Item expiration Date
+The default is Off.
+Risk Business Partner
+Posting Partner Category
+Payment Transaction Type
+SAP Business Partners
+The Maintenance Orders tab shows orders for the relevant work center.
+Released for Processing
+A variant of a text block is created to reuse it in different business scenarios.
+You can restore an older version or revision of a template.
+An end of purpose check determines whether data is still relevant for business activities based on the retention period defined for the data.The retention period of data consists of the following phases:
+To delete an existing variant,
+Click Save to activate the extension.
+The tax rate type can be any of the following:
+Select a Business Partner
+To process credits, proceed as follows:
+Business Partner CNPJ ()
+Control Expiration Date
+Select the Users tab.
+Business Unit Key:
+End date of the business partner role.
+Click Set To Failed.
+Business Object Name
+Scheduling Worklist ID
+Note that after a redeployment, the persistency might be deleted and the data access could be changed back to virtual for views with structural changes.
+Displays the creator of the deployment.
+Create Session Template
+Service provider Bank:
+Business Partner Payment
+Business Partner General
+Prepared for Approval
+Defining an Inspection Stage Change
+You can also see and edit the following folder information:
+When creating and editing hierarchies, you can select Use in Compatible Set Group.Using cost center hierarchies in compatible set groups simplifies your allocations by aggregating them into a central allocation based on the universal journal.
+User Name, Password and Authentication.
+This tab displays the following details:
+All the template names must be unique.
+In the Edit menu, the following functions are available:
+Final Confirmation Type
+Enter a description for the application template.
+Delete persistent view:
+The prorated charges are calculated as follows:
+An Administrator can:
+'Asset Balances' Cards
+Create Target Plans
+The system shows you all available measures.
+Storage Type System
+Special Uses Cases
+Restrictions on Use
+Indicates the status of the job
+This template is now deprecated.
+Define the measures of your business entity.
+For more information about creating a Run Template, see
+To go back to the preview, choose the Back button in the browser.
+Configure partner settings
+Resetting the availability data
+Select the relevant source type
+Life Cycle Stage
+You can add once or more precondition that must be met before the workflow is triggered.
+Deleting a Business Unit
+Descriptiion of Change Type
+You can manage (save, load, and delete) customized views efficiently here.
+Create a new data source.
+Configure Record Types
+Business Partner Transfer
+Business Partner Grouping
+Alert Time Distribution
+Click Tab Configuration and select any of the following options:
+The job does the following:
+You can now delete manual tasks.
+Source Document Category
+Mass Processing - Export
+How to Delete Folders
+Discard your changes.
+Starting Mass Processing
+Compliance Requirement Version
+Application Programming Interfaces
+Select your template and choose Open.
+Indicates the category of the business partner role.
+Process Payment Cards
+Type of file source
+New Task Template
+You can set the following modeling properties:
+Select the properties you want to copy from the source.
+Please note also that the default setting for new hierarchies is to use them in compatible set groups.If you do not wish to do so, you must deselect this option.
+Define one or more preconditions that must be met before the step of the credit memo request workflow can be processed.If one of the preconditions is not met, the step will not be started.
+The name of the product type that is replicated.
+Business Partner Master Data
+Product Storage Cost
+If you exclude fields from a replicated view, a background job stops the delta replication in the target system after you publish in the Exclude Fields app.This affects the last sync time for the replicated CDS view in the Replicate CDS Views app.
+You can switch between the following tabs:
+You can download and delete documents.
+The following measures are displayed:
+For more information, see the help for the  (Settings) button.
+Save the check.
+On the  Sender tab the following options are available:
+The details are provided under the following tabs:
+Click Save to save your settings.
+Drag and drop sources from the Source Browser and join or union them, as appropriate.
+Select Simulate to check the mass change job for possible errors in the application log or select Schedule to save changes.
+in-house production (E)
+Business partner (Role:
+About Business Partners
+Search by Contract Account
+Technical Object Category
+You can also change the line item description if desired.
+Choose Add Attribute.
+Click Save to save your model.
+On the Review deployment page, review the information for each package.
+Select the business unit you would like to modify.
+A text block can be assigned as an alternative to only one text block in a template
+Submits for approval
+Clearing Item Completed
+The SQL port number of the remote SAP HANA server (master index server).
+You can switch to Edit mode to do the following:
+In the Bills
+You can edit the following item details:
+Fulfillment Site ID
+To specify the document type as scheduling agreement.
+Item Information page
+This is now the default behavior.
+SD - Sales contract
+Work Center Classification
+Define data binding.
+Choose this button to verify whether the G/L account numbers that you want to use have already been used in the delivered chart of accounts.You can see the result of the check under G/L Accounts in the Validation Info column.
+This tab displays the structure of the selected template.
+The following rule types and line types are available:
+Schedule is created for the data flow.
+Receivers in Intercompany Allocation
+Click Save to save your import.
+Restoring an Older Version or Revision of a Template
+Inventory Opening Balances
+Inventory Opening Balance:
+You must save your entries.
+Creating a Run Template
+Find Slot cannot be used if your offset value is in the past.
+SAP HANA Cloud Deployment Infrastructure (HDI) Container
+Document Type ID
+To save a filter, proceed as follows:
+Displays the current overall status of the shipment.
+Cost Type Mapping
+Account Manager Name
+Select the order type you want to convert the element to.
+The Save filter dialog appears.
+With the workflow feature, you can:
+Accepted by Customer
+ODO Document Type
+Reset Transaction Data
+String Multiple Select
+HANA Use SSL
+SAP Jam Term
+Set the repair object to the status Completed.
+Data Warehouse Authorisation Scenario
+Migrate Production Version
+Business Partner Bank Details
+System Administration Notes
+The following predefined standard activity types are available:
+The Duplicate button enables you to send an output item again.
+Choose Save As.
+Click  Save to save your model.
+Work center type
+Select the Edit Purpose button.
+Work center data
+Enter the certificate’s password
+On the Receiver tab, the following options are available:
+Object Type - Replication Configuration
+The following statuses for an index adjustment are possible:
+Last Processing Info
+Delete audit areas
+Multiple use cases
+Personal Data Blocking
+Select Schedule Type
+Accruals that have been successfully reviewed display on the Review Finished tab page.The following accruals can be of status Review Finished:
+The Current Inventory is calculated as follows:
+Create a new source list
+Choose the Object Type
+Available Transaction Types
+Business partner (payer)
+It is not possible to change a completed business document that contains a blocked business partner or location.
+<Title of the business role>
+Service Confirmation (SVC1)
+Defining Activity Types
+Operations on business partner
+Standard Service Confirmation
+Cancel repair confirmations with the status Completed.

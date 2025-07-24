@@ -1,0 +1,500 @@
+{"item": "elemento"}
+{"save": "guardar"}
+{"replication": "reproducción"}
+{"sharing": "compartición"}
+{"assembly": "conjunto"}
+{"tab": "pestaña"}
+{"schedule": "programación"}
+{"stage": "fase"}
+{"sorting": "orden"}
+{"partner": "socio"}
+{"split": "partición"}
+{"job": "tarea"}
+{"processing": "procesamiento"}
+{"step": "paso"}
+{"template": "plantilla"}
+{"type": "tipo"}
+{"schedule": "programación"}
+{"statement": "declaración"}
+{"assessment": "evaluación"}
+{"recurrence": "repetición"}
+{"template": "modelo", "read": "leer"}
+{"link": "enlace"}
+{"assembly": "conjunto"}
+{"job": "job"}
+{"delete": "eliminar"}
+{"schedule": "programación"}
+{"edit": "editar"}
+{"tab": "pestaña"}
+{"transaction": "transacción"}
+{"sharing": "compartición"}
+{"review": "revisión"}
+{"processing rule": "regla de procesamiento"}
+{"partner": "socio"}
+{"delete": "eliminar"}
+{"type": "tipo"}
+{"document type": "clase de documento"}
+{"write off": "ignorar"}
+{"type": "clase"}
+{"Professional Services": "Servicios profesionales"}
+{"delete": "eliminar"}
+{"worklist": "lista de trabajo"}
+{"type": "clase"}
+{"notice": "aviso"}
+{"purpose": "fin"}
+{"process": "procesar"}
+{"partner": "socio", "default": "predefinir"}
+{"parallel processing": "procesamiento paralelo"}
+{"job": "tarea"}
+{"launchpad": "plataforma de lanzamiento"}
+{"process": "procesar"}
+{"report": "informe"}
+{"feedback": "comentarios"}
+{"trace": "seguimiento"}
+{"delete": "eliminar"}
+{"edit": "editar"}
+{"edit": "editar"}
+{"work center": "centro de trabajo"}
+{"public": "pública"}
+{"partner": "socio"}
+{"delete": "eliminar"}
+{"processing": "procesamiento"}
+{"use": "utilizar"}
+{"delete": "eliminar"}
+{"tab": "etiqueta"}
+{"remove": "quitar"}
+{"processing": "procesar"}
+{"partner": "socio"}
+{"processing": "procesar"}
+{"work center": "centro de trabajo"}
+{"stage": "fase"}
+{"add": "añadir"}
+{"Actions": "acciones"}
+{"measure": "indicador"}
+{"measure": "indicador"}
+{"role template": "plantilla de rol"}
+{"requirement": "requisitos"}
+{"partner": "socio"}
+{"vendor": "acreedor"}
+{"tab": "pestaña"}
+{"set": "definir"}
+{"tab": "etiqueta"}
+{"installment plan category": "categoría de plan de pago a plazos"}
+{"default": "estándar"}
+{"save": "guardar"}
+{"expand": "Desplegar"}
+{"save as": "guardar como"}
+{"issue": "problema"}
+{"partner": "socio"}
+{"tab": "pestaña"}
+{"termination": "rescisión"}
+{"production process": "proceso de fabricación"}
+{"complete": "concluir"}
+{"use": "utilizar"}
+{"SAP support": "SAP Support"}
+{"deployment": "despliegue"}
+{"statement": "declaración"}
+{"contract item": "posición de contrato"}
+{"remove": "quitar"}
+{"header": "cabecera"}
+{"template": "plantilla"}
+{"partner": "socio"}
+{"item": "posición"}
+{"processing": "procesamiento"}
+{"pause": "detener"}
+{"worklist": "lista de trabajo"}
+{"requirement": "requisitos"}
+{"display": "Visualizar"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"central contract": "pedido abierto central"}
+{"deployment": "despliegue"}
+{"save": "guardar"}
+{"edit": "editar"}
+{"save": "guardar"}
+{"termination": "rescisión", "renewal": "renovación"}
+{"transaction": "operación", "customer": "deudor"}
+{"local repository": "repositorio local", "save": "guardar"}
+{"reporting period": "período del informe"}
+{"allocation": "imputación"}
+{"partner": "socio"}
+{"consolidation chart of accounts": "plan de posiciones"}
+{"delete": "eliminar"}
+{"work center": "puesto de trabajo"}
+{"type": "clase"}
+{"dynamic modification": "modificación dinámica"}
+{"schedule": "programa"}
+{"use": "utilizar"}
+{"set": "definir"}
+{"save": "guardar"}
+{"save": "guardar"}
+{"work center": "centro de trabajo"}
+{"delete": "eliminar"}
+{"pause": "interrumpir"}
+{"source": "fuente"}
+{"partner": "socio"}
+{"expired": "vencido"}
+{"remove": "quitar"}
+{"button": "pulsador"}
+{"launchpad": "rampa de lanzamiento"}
+{"deployment": "despliegue"}
+{"source document": "documento de origen"}
+{"role": "función"}
+{"reporting": "informes"}
+{"outbound": "salida"}
+{"deleted": "borrado"}
+{"template": "modelo"}
+{"deployment": "despliegue"}
+{"delete": "borrar"}
+{"use": "utilizar"}
+{"default": "predefinir"}
+{"measure": "indicador"}
+{"scheduled": "programado", "reset": "restablecer"}
+{"job": "tarea"}
+{"use": "utilizar"}
+{"use": "utilizar"}
+{"vendor": "acreedor"}
+{"tab": "pestaña"}
+{"template": "plantilla"}
+{"processing": "procesamiento"}
+{"link": "enlace"}
+{"schedule": "programación"}
+{"business role": "rol empresarial"}
+{"tab": "pestaña"}
+{"save": "guardar"}
+{"complete": "completo"}
+{"enter": "indicar"}
+{"container": "contenedor"}
+{"edit": "editar"}
+{"multiple": "múltiple"}
+{"partner": "socio"}
+{"save": "guardar"}
+{"measure": "indicador"}
+{"tab": "pestaña"}
+{"process": "procesar"}
+{"tab": "pestaña"}
+{"source": "origen"}
+{"default": "valor predeterminado"}
+{"incident": "incidencia"}
+{"process step": "paso del proceso"}
+{"template": "modelo"}
+{"add": "añadir"}
+{"port": "puerta"}
+{"user interface": "interfase de usuario"}
+{"set": "definir"}
+{"partner": "socio"}
+{"tab": "etiqueta"}
+{"stage": "fase"}
+{"measure": "indicador"}
+{"requirement": "requisitos"}
+{"delete": "eliminar"}
+{"deployment": "despliegue"}
+{"type": "tipo"}
+{"pause": "interrumpir"}
+{"recurrence": "repetición"}
+{"account assignment": "asignación de cuentas"}
+{"customer": "cliente"}
+{"link": "enlace"}
+{"deployment": "deployment"}
+{"replication": "reproducción"}
+{"retrieval": "recuperación"}
+{"item": "posición"}
+{"save": "guardar"}
+{"bill": "facturar"}
+{"partner": "socio", "default": "predefinir"}
+{"delete": "eliminar"}
+{"prepayment": "pago adelantado"}
+{"run type": "clase de ejecución"}
+{"add": "agregar"}
+{"contract creation": "creación de pedido abierto"}
+{"security": "títulos"}
+{"tab": "pestaña"}
+{"work center": "puesto de trabajo", "schedule": "programación"}
+{"add": "añadir"}
+{"sort": "clasificar"}
+{"save": "guardar"}
+{"item": "elemento"}
+{"deployment": "deployment"}
+{"schedule": "planificar", "job": "job"}
+{"step": "paso"}
+{"accounting": "contabilidad"}
+{"approval": "autorización", "Approval": "Autorización"}
+{"delete": "eliminar"}
+{"allocation": "imputación"}
+{"template": "modelo"}
+{"loop": "bucle"}
+{"template": "modelo"}
+{"partner": "socio"}
+{"partner": "interlocutor"}
+{"partner": "socio"}
+{"replication": "reproducción"}
+{"partner": "socio"}
+{"notification": "Notificación"}
+{"deployment": "despliegue"}
+{"expected value": "valor previsto"}
+{"sharing": "compartimiento"}
+{"partner": "socio"}
+{"item": "artículo"}
+{"tab": "pestaña"}
+{"tab": "pestaña"}
+{"default": "estándar"}
+{"save": "guardar"}
+{"endpoint": "punto de acceso"}
+{"scope": "alcance"}
+{"tab": "pestaña"}
+{"popup": "popup"}
+{"contract account": "cuenta del contrato"}
+{"process": "procesar"}
+{"transaction": "transacción"}
+{"type": "clase"}
+{"add": "agregar"}
+{"pause": "detener"}
+{"manager": "responsable"}
+{"replication": "replicación"}
+{"measure": "medida"}
+{"partner": "interlocutor"}
+{"default": "estándar"}
+{"open": "abierta"}
+{"type": "clase"}
+{"type": "clase"}
+{"sharing": "compartición"}
+{"delete": "borrar"}
+{"save": "guardar"}
+{"processing": "gestión"}
+{"tab": "pestaña"}
+{"reporting": "informes"}
+{"edit": "tratar"}
+{"tab": "pestaña"}
+{"range": "intervalo"}
+{"statement": "declaración"}
+{"production order": "orden de producción"}
+{"business content": "contenido empresarial"}
+{"schedule": "programación"}
+{"template": "modelo"}
+{"save": "guardar"}
+{"data subject": "sujeto de datos"}
+{"allocation": "imputación"}
+{"schedule": "programa"}
+{"monitor": "supervisar"}
+{"case": "caso"}
+{"edit": "editar"}
+{"schedule": "programación"}
+{"schedule": "programación"}
+{"deadline": "plazo"}
+{"business document": "documento comercial"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"business context": "contexto empresarial"}
+{"production order": "orden de producción"}
+{"partner": "socio"}
+{"item": "elemento"}
+{"dynamic modification": "dinamización"}
+{"change": "modificación"}
+{"item": "artículo"}
+{"object type": "clase de objeto"}
+{"service confirmation": "notificación de servicio"}
+{"schedule": "programación"}
+{"document category": "categoría de documento"}
+{"output": "resultado"}
+{"processing": "procesamiento"}
+{"approval": "autorización", "Approval": "Autorización"}
+{"production order": "orden de producción"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"set": "definir"}
+{"template": "plantilla"}
+{"save": "guardar"}
+{"flow": "flow"}
+{"partner": "socio", "type": "clase"}
+{"contract": "contrato"}
+{"display": "visualización"}
+{"pause": "interrumpir"}
+{"schedule": "programación"}
+{"expiration date": "fecha de expiración", "item": "artículo"}
+{"default": "valor predeterminado"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"transaction type": "tipo de operación"}
+{"partner": "socio"}
+{"tab": "pestaña"}
+{"processing": "procesamiento"}
+{"use": "utilizar"}
+{"template": "modelo"}
+{"retention period": "plazo de conservación"}
+{"delete": "eliminar"}
+{"extension": "extensión"}
+{"tax rate": "tipo impositivo"}
+{"partner": "socio"}
+{"process": "procesar"}
+{"partner": "socio"}
+{"expiration date": "fecha de vencimiento"}
+{"tab": "pestaña"}
+{"business unit": "unidad empresarial"}
+{"business partner role": "rol de socio comercial"}
+{"set": "definir"}
+{"business object": "business object"}
+{"worklist": "lista de trabajo"}
+{"deployment": "despliegue"}
+{"deployment": "despliegue"}
+{"template": "modelo"}
+{"service provider": "proveedor de servicios"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"approval": "autorización", "Approval": "Autorización"}
+{"change": "cambio"}
+{"edit": "tratar"}
+{"set": "conjunto"}
+{"authentication": "autenticación"}
+{"tab": "pestaña"}
+{"template": "modelo"}
+{"edit": "editar"}
+{"type": "clase"}
+{"template": "plantilla"}
+{"delete": "eliminar"}
+{"charge": "cargo"}
+{"administrator": "responsable"}
+{"balance": "balance"}
+{"target": "objetivo"}
+{"measure": "indicador"}
+{"storage type": "tipo de almacenamiento"}
+{"use": "utilización"}
+{"use": "utilización"}
+{"job": "tarea"}
+{"template": "modelo"}
+{"business entity": "entidad empresarial"}
+{"template": "modelo"}
+{"button": "pulsador"}
+{"partner": "socio"}
+{"reset": "restablecer"}
+{"source": "origen"}
+{"stage": "fase"}
+{"flow": "flujo"}
+{"business unit": "unidad empresarial"}
+{"type": "tipo"}
+{"save": "guardar"}
+{"data source": "fuente de datos"}
+{"type": "tipo"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"time": "tiempo"}
+{"tab": "ficha"}
+{"job": "job"}
+{"delete": "eliminar"}
+{"source document category": "tipo de documento de origen"}
+{"mass processing": "procesamiento en masa"}
+{"delete": "borrar"}
+{"discard": "rechazar"}
+{"mass processing": "tratamiento en masa"}
+{"compliance requirement": "requisito de conformidad"}
+{"interface": "interfase"}
+{"template": "plantilla"}
+{"partner": "interlocutor"}
+{"process": "procesar"}
+{"source": "fuente"}
+{"template": "plantilla"}
+{"set": "definir"}
+{"source": "fuente"}
+{"set": "conjunto"}
+{"process": "procesar"}
+{"product type": "clase de producto"}
+{"partner": "socio"}
+{"storage": "almacén"}
+{"replication": "replicación"}
+{"tab": "etiqueta"}
+{"delete": "eliminar"}
+{"measure": "indicador"}
+{"button": "pulsador"}
+{"check": "verificación"}
+{"tab": "pestaña"}
+{"tab": "pestaña"}
+{"save": "guardar"}
+{"source": "fuente"}
+{"save": "guardar"}
+{"in-house production": "fabricación propia"}
+{"partner": "socio"}
+{"about": "info"}
+{"contract account": "cuenta del contrato"}
+{"object category": "categoría del objeto"}
+{"item": "partida"}
+{"add": "añadir"}
+{"save": "guardar"}
+{"deployment": "implementación"}
+{"business unit": "unidad empresarial"}
+{"template": "plantilla"}
+{"approval": "autorización", "Approval": "Autorización"}
+{"clearing item": "partida de compensación"}
+{"port": "puerta"}
+{"edit": "tratar"}
+{"bill": "cuenta"}
+{"item": "elemento"}
+{"site": "centro"}
+{"document type": "tipo de documento"}
+{"item": "artículo"}
+{"default": "por defecto"}
+{"contract": "contrato"}
+{"work center": "puesto de trabajo"}
+{"data binding": "vínculación de datos"}
+{"button": "pulsador"}
+{"tab": "pestaña"}
+{"type": "tipo"}
+{"schedule": "programación"}
+{"allocation": "imputación"}
+{"save": "guardar"}
+{"template": "modelo"}
+{"inventory": "inventario"}
+{"opening balance": "saldo inicial"}
+{"save": "guardar"}
+{"template": "modelo"}
+{"offset": "desplazamiento", "slot": "slot"}
+{"container": "contenedor"}
+{"document type": "clase de documento"}
+{"save": "guardar"}
+{"shipment": "envío"}
+{"cost type": "tipo de coste"}
+{"manager": "administrador"}
+{"type": "tipo"}
+{"save": "guardar"}
+{"flow": "flujo"}
+{"accepted": "aceptada"}
+{"document type": "tipo de documento"}
+{"transaction": "transacción"}
+{"string": "string"}
+{"use": "utilizar"}
+{"term": "término"}
+{"completed": "concluido"}
+{"data warehouse": "data warehouse"}
+{"production version": "versión de fabricación"}
+{"partner": "socio"}
+{"system administration": "administración del sistema"}
+{"type": "tipo"}
+{"item": "elemento"}
+{"save as": "guardar como"}
+{"save": "guardar"}
+{"work center": "centro de trabajo"}
+{"purpose": "objetivo"}
+{"work center": "centro de trabajo"}
+{"password": "contraseña"}
+{"tab": "pestaña"}
+{"object type": "clase de objeto"}
+{"adjustment": "Ajuste"}
+{"processing": "procesamiento"}
+{"delete": "eliminar"}
+{"multiple": "varios"}
+{"lock": "bloquear"}
+{"schedule": "planificación"}
+{"review": "revisión"}
+{"inventory": "stock"}
+{"source": "fuente"}
+{"object type": "clase de objeto"}
+{"transaction": "operación"}
+{"partner": "socio"}
+{"partner": "socio"}
+{"business role": "rol empresarial"}
+{"service confirmation": "confirmación de servicio"}
+{"type": "tipo"}
+{"partner": "socio"}
+{"service confirmation": "confirmación de servicio"}
+{"completed": "concluido"}
